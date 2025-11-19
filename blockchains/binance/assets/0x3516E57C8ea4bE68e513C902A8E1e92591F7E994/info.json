@@ -1,0 +1,10 @@
+{
+  "name": "ZED20 Token",
+  "symbol": "ZED20",
+  "decimals": 18,
+  "description": "ZED20 is a BSC token deployed as UUPS proxy, used for [purpose].",
+  "website": "https://yourwebsite.com",
+  "explorer": "https://bscscan.com/token/0x3516E57C8ea4bE68e513C902A8E1e92591F7E994",
+  "status": "active",
+  "id": "0x3516E57C8ea4bE68e513C902A8E1e92591F7E994"
+}
